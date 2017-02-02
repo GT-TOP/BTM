@@ -1,3 +1,5 @@
+知乎：https://www.zhihu.com/question/21504444?sort=created
+
 # Code of Biterm Topic Model
 
 Biterm Topic Model (BTM) is a word co-occurrence based topic model that learns topics by modeling word-word co-occurrences patterns (e.g., biterms).
